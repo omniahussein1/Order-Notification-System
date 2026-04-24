@@ -108,5 +108,4 @@ Models/
 Services/
 Extensions/
 Program.cs
-Program.cs
 ```
